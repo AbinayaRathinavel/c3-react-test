@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.headerFont {
+  font-size: 36px;
+  display: inline-block;
+}
+
+.container {
+  background-color: #d8d8d8;
+  text-align : center;
+  max-width: 960px !important;
+}
+
+img {
+  border-radius: 50%;
+  height:80px;
+  width: 80px;
+  position: absolute;
+  left: 100px;
+  margin-top: 15px;
+}
+
+.container-box {
+  padding: 20px;
+  float: left;
+}
+
+.usertext {
+  margin-top: 30px;
+  font-size: 18px;
+  color: #e93939;
+}
+
+.inner-box {
+  height:100px;
+  width: 212px;
+  float: left;
+  margin-top: 47px;
+  background: #ffffff;
+  text-align: center;
+}
+
+.delete {
+  font-size: 14px;
+  width: 100%;
+  float: left;
+  margin-top: 47px;
+  color: #007fa3;
+  text-align: left;
+  margin: 10px;
+}
+
+.user-block {
+  text-align: center;
+}
